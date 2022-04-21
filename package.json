@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/hyqal/pantherswapsdk.git",
+  "repository": "https://github.com/hyqal/pantherswapsdk",
   "keywords": [
     "pantherswap",
     "ethereum"
